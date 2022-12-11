@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\hometaskPUBG\hometaskPUBG\bin\Debug\net6.0\hometaskPUBG.exe
+C:\Users\User\source\repos\hometaskPUBG\hometaskPUBG\bin\Debug\net6.0\hometaskPUBG.deps.json
+C:\Users\User\source\repos\hometaskPUBG\hometaskPUBG\bin\Debug\net6.0\hometaskPUBG.runtimeconfig.json
+C:\Users\User\source\repos\hometaskPUBG\hometaskPUBG\bin\Debug\net6.0\hometaskPUBG.dll
+C:\Users\User\source\repos\hometaskPUBG\hometaskPUBG\bin\Debug\net6.0\hometaskPUBG.pdb
+C:\Users\User\source\repos\hometaskPUBG\hometaskPUBG\obj\Debug\net6.0\hometaskPUBG.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\hometaskPUBG\hometaskPUBG\obj\Debug\net6.0\hometaskPUBG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\hometaskPUBG\hometaskPUBG\obj\Debug\net6.0\hometaskPUBG.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\hometaskPUBG\hometaskPUBG\obj\Debug\net6.0\hometaskPUBG.AssemblyInfo.cs
+C:\Users\User\source\repos\hometaskPUBG\hometaskPUBG\obj\Debug\net6.0\hometaskPUBG.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\hometaskPUBG\hometaskPUBG\obj\Debug\net6.0\hometaskPUBG.dll
+C:\Users\User\source\repos\hometaskPUBG\hometaskPUBG\obj\Debug\net6.0\refint\hometaskPUBG.dll
+C:\Users\User\source\repos\hometaskPUBG\hometaskPUBG\obj\Debug\net6.0\hometaskPUBG.pdb
+C:\Users\User\source\repos\hometaskPUBG\hometaskPUBG\obj\Debug\net6.0\hometaskPUBG.genruntimeconfig.cache
+C:\Users\User\source\repos\hometaskPUBG\hometaskPUBG\obj\Debug\net6.0\ref\hometaskPUBG.dll
